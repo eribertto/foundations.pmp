@@ -44,19 +44,23 @@ Use tools. Incorporating tools to assist in the adoption of a change can be very
 
 Feedback mechanisms, such as surveys, can capture input from stakeholders.
 
-Flowcharts can visualize the project's development process.
+Flowcharts can visualize the project's development process. https://www.lucidchart.com/pages/what-is-a-flowchart-tutorial
 
 Culture mapping can illustrate the company's culture and how the company's values, norms, and employees behavior may be affected by the change.
+https://www.strategyzer.com/blog/posts/2015/10/13/the-culture-map-a-systematic-intentional-tool-for-designing-great-company-culture
 
 As the project manager, you are responsible for successfully delivering projects. As you hone the skill set you acquire throughout this program, you will find that change management is essential to your projects’ success.
 
 For more on how to participate in the change management process, check out the following resources:
 
 Change Management at the Project Level
+https://www.prosci.com/resources/articles/change-management-at-the-project-level
 
 5 Steps to Successful End-User Adoption
+https://www.citrix.com/content/dam/citrix/en_us/documents/reference-material/5-steps-to-successful-end-user-adoption.pdf
 
 Change Management Framework
+https://docs.google.com/presentation/d/1YMVERX1vBsknCjbCtsKFmHgWWZxFcO5A3urvWbWXKbs/template/preview?resourcekey=0-_V7hj-KwQu75EI2Y9qpsTw
 
 If you don't have a Google account, you can download this file directly from the attachment below:
 https://d3c33hcgiwev3.cloudfront.net/EcO9Op-aTUGDvTqfms1BCg_22992a0fc216492c830c65c38b2610f1_Change-Management-Framework.pptx?Expires=1632009600&Signature=Wo-mEw~aVB414zi8q75sE6pT-FGUbeevuJ78VEr81gCHWT421UcsbpqmSVtMNs6UWPWZschFis-QhIP8RHOsoVCR5ji~ShjMn5xxOsUj-4QCrYbKtbotl7I80iTF57pzH8XqyRxy4abuDUCQJu2NBbGC69R8gZw~7geiMPKnt-E_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
